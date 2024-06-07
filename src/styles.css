@@ -85,6 +85,9 @@ footer{
 .weather-forecast{
     margin-top:  20px;
     color: black;
+    text-align: center;
+    display:flex;
+    justify-content: space-around;
 
 }
 .weather-forecast-date{
