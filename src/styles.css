@@ -6,7 +6,8 @@ body {
   }
   
 .weather-app {
-    background-color: #bd5a7b;
+    background-color:palevioletred;
+
     max-width: 600px;
     margin:45px auto;
     box-shadow: 0 30px 50px rgb(207, 101, 138);
