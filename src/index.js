@@ -61,10 +61,11 @@ function displayForecast(){
         <div class="weather-forecast-day">
         <div class"weather-forecast-date">${day}</div>
         <div class="weather-forecast-icon">⛈️</div>
-        <div class="weather-forecast-temperature">
-        <strong>15°</strong>
+        <div class="weather-forecast-temperatures">
+        <div class="weather-forcast-temperature">
+        <strong> 15° </strong>
         </div>
-        <div class="Weather-forecast-temperature"9°</div>
+        <div class="weather-forecast-temperature"> 9° </div>
         </div>
         </div>`;
     });
